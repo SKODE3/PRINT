@@ -1,0 +1,43 @@
+COMMENT PRINT QUOTATION AND VAR
+- #        = COMMENTS ARE TEXT OR NOTE THAT THE COMPUTER IGNORES
+- print()  = PRINT FUNCTION
+- " "      = QUOTATION CONTAIN TEXT
+- VAR      = TO STORE DATA OR VALUE
+
+# This Is Comment
+print() # This Is Print Function
+"Hello World!" # This Is Text Container
+
+print('Hello World!') # Print out to Console Hello World!
+print('''
+ (   (    (( ((
+ )\  )\   ))\))\  )\ )\
+((_)((_)(((_)(_)))(_)(_)
+| _ \ _ \_ _| \| |_   _|
+|  _/   /| || .  | | |
+|_| |_|_\___|_|\_| |_|
+
+''') # Print Multiline Text
+var = "Hi World!"
+var2 = """
+🅷🅸 🆆🅾🆁🅻🅳 !
+"""
+print(var,'\n',var2)
+
+================================================== output
+Hello World!
+
+ (   (    (( ((              
+ )\  )\   ))\))\  )\ )\      
+((_)((_)(((_)(_)))(_)(_)     
+| _ \ _ \_ _| \| |_   _|     
+|  _/   /| || .  | | |       
+|_| |_|_\___|_|\_| |_|       
+
+Hi World! 
+ 
+🅷🅸 🆆🅾🆁🅻🅳 !
+
+
+
+
