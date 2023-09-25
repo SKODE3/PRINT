@@ -1,0 +1,52 @@
+print("""
+   i can do TEXT like this 
+      i can do TEXT like this 
+         i can do TEXT like this 
+    _      _____  _     _ _____
+   | |    | | | | \ \ / / | ___|
+   | |__  | |_| |  \   /  | ___|
+   |____| |_____|   \_/   |____|
+
+   i can put emojis also 😸😽
+
+""")
+
+How about quotes?
+let's creat funny or copy and paste quotes.
+
+print("I refuse to join any club that would have me as a member. \n* Groucho Marx")
+========================================= output
+
+I refuse to join any club that would have me as a member. 
+* Groucho Marx
+
+
+print('''
+My fake plants died because I did not pretend to water them.
+* Mitch Hedberg
+
+I always wanted to be somebody, but now I realize I should have been more specific.
+* Lily Tomlin
+
+Life is hard. After all, it kills you.
+* Katharine Hepburn
+
+I believe that if life gives you lemons, you should make lemonade...
+And try to find somebody whose life has given them vodka, and have a party.
+* Ron White
+''')
+========================================== output
+
+My fake plants died because I did not pretend to water them.
+* Mitch Hedberg
+
+I always wanted to be somebody, but now I realize I should have been more specific.
+* Lily Tomlin
+
+Life is hard. After all, it kills you.
+* Katharine Hepburn
+
+I believe that if life gives you lemons, you should make lemonade...
+And try to find somebody whose life has given them vodka, and have a party.
+* Ron White
+
